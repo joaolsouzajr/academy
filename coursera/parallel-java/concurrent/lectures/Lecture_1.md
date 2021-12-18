@@ -1,5 +1,5 @@
-# 1.1 Java Threads
 
+# 1.1 Java Threads
 **Lecture Summary**: In this lecture, we learned the concept of threads as 
 lower-level building blocks for concurrent programs. 
 A unique aspect of Java compared to prior mainstream programming languages is that 

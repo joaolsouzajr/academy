@@ -131,6 +131,10 @@ Useful links:
 
 https://www.keil.com/demo/eval/armv4.htm
 
+http://edx-org-utaustinx.s3.amazonaws.com/UT601x/download.html
+
+http://users.ece.utexas.edu/~valvano/Volume1/E-Book/
+
 
 ## C3 Eletronics
 
